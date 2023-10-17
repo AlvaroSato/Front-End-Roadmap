@@ -20,8 +20,8 @@ After i finish some steps in my roadmap, i'll add a ✔️ in front of each one,
 
 **1. Internet**
   * How Does the internet work? ✔️
-  * What is HTTP?
-  * What is Domain Name?
+  * What is HTTP? ✔️
+  * What is Domain Name? ✔️
   * What is hosting?
   * DNS and how it works?
   * Browsers and how they work?
