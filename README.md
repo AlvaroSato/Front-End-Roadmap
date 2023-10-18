@@ -7,7 +7,7 @@ This is a repository developed for my front-end studies based on this roadmap:
 
 ## Documentation
 
-I'm including only the "Personal Recomendation" and "Alternative Options" from roadmap (After i will study de other ones that are not mandatory);
+I'm including only the "Personal Recomendation" and "Alternative Options" from roadmap (After i will study the other ones that are not mandatory);
 
 After i finish some steps in my roadmap, i'll add a ✔️ in front of each one, like the example bellow:
 
@@ -22,9 +22,9 @@ After i finish some steps in my roadmap, i'll add a ✔️ in front of each one,
   * How Does the internet work? ✔️
   * What is HTTP? ✔️
   * What is Domain Name? ✔️
-  * What is hosting?
-  * DNS and how it works?
-  * Browsers and how they work?
+  * What is hosting? ✔️
+  * DNS and how it works? ✔️
+  * Browsers and how they work? 🟡 - Complex, so i'll do it later
 
 **2. HTML**
   * Learn the basics
