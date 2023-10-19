@@ -27,8 +27,8 @@ After i finish some steps in my roadmap, i'll add a ✔️ in front of each one,
   * Browsers and how they work? 🟡 - Complex, so i'll do it later
 
 **2. HTML**
-  * Learn the basics
-  * Writing Semantic HTML
+  * Learn the basics ✔️
+  * Writing Semantic HTML ✔️
   * Froms and Validations
   * Accessibility
 
