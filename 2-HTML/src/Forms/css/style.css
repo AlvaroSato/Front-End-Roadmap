@@ -1,0 +1,16 @@
+input:invalid {
+    border: 2px solid red;
+}
+
+input:valid {
+    border: 2px solid black;
+}
+
+input:invalid:required {
+    background-image: linear-gradient(to right, blue, lightblue);
+    color: white;
+}
+
+.my-forms{
+    padding: 10px;
+}
