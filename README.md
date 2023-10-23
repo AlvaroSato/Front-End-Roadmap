@@ -29,8 +29,8 @@ After i finish some steps in my roadmap, i'll add a ✔️ in front of each one,
 **2. HTML**
   * Learn the basics ✔️
   * Writing Semantic HTML ✔️
-  * Froms and Validations
-  * Accessibility
+  * Froms and Validations ✔️
+  * Accessibility ✔️
 
 **3. CSS**
   * Learn the basics
