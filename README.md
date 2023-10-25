@@ -7,7 +7,7 @@ This is a repository developed for my front-end studies based on this roadmap:
 
 ## Documentation
 
-I'm including only the "Personal Recomendation" and "Alternative Options" from roadmap (After i will study the other ones that are not mandatory);
+I'm including only the "Personal Recomendation" and "Alternative Options" from roadmap (After i will study the other ones that are not mandatory), it`s basic a copy and past of parts of the sites that the Roadmap.sh propose, so i can read in the future if needed;
 
 After i finish some steps in my roadmap, i'll add a ✔️ in front of each one, like the example bellow:
 
@@ -29,8 +29,8 @@ After i finish some steps in my roadmap, i'll add a ✔️ in front of each one,
 **2. HTML**
   * Learn the basics ✔️
   * Writing Semantic HTML ✔️
-  * Froms and Validations
-  * Accessibility
+  * Froms and Validations ✔️
+  * Accessibility ✔️
 
 **3. CSS**
   * Learn the basics
