@@ -24,7 +24,7 @@ After i finish some steps in my roadmap, i'll add a ✔️ in front of each one,
   * What is Domain Name? ✔️
   * What is hosting? ✔️
   * DNS and how it works? ✔️
-  * Browsers and how they work? 🟡 - Complex, so i'll do it later
+  * Browsers and how they work? ⚠️ - Complex, so i'll do it later
 
 **2. HTML**
   * Learn the basics ✔️
@@ -45,22 +45,22 @@ After i finish some steps in my roadmap, i'll add a ✔️ in front of each one,
 **5. Version Control**
   * Git
   * Some Git Hosting:
-    * Github (Recommended)
-    * GitLab
-    * BitBucket
+    * **Github (Recommended)**
+    * GitLab ⚠️
+    * BitBucket ⚠️
 
 **6. Package Managers**
   * npm
   * pnhm
   * yarn
 
-**7. Framework**
-  * React
-  * Vue.js
-  * Angular
-  * Svelte
-  * Solid JS
-  * Qwik
+**7. Framework** _NOTE: In bold are the main frameworks that will be studied, the other ones are optional and i plan to study them in the future_
+  * **React**
+  * **Vue.js**
+  * **Angular**
+  * Svelte ⚠️
+  * Solid JS ⚠️
+  * Qwik ⚠️
 
 **8. Writing CSS**
   * Tailwind
